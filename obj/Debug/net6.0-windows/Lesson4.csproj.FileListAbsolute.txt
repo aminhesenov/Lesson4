@@ -1,0 +1,17 @@
+D:\C# dersleri\Lesson4\Lesson4\bin\Debug\net6.0-windows\Lesson4.exe
+D:\C# dersleri\Lesson4\Lesson4\bin\Debug\net6.0-windows\Lesson4.deps.json
+D:\C# dersleri\Lesson4\Lesson4\bin\Debug\net6.0-windows\Lesson4.runtimeconfig.json
+D:\C# dersleri\Lesson4\Lesson4\bin\Debug\net6.0-windows\Lesson4.dll
+D:\C# dersleri\Lesson4\Lesson4\bin\Debug\net6.0-windows\ref\Lesson4.dll
+D:\C# dersleri\Lesson4\Lesson4\bin\Debug\net6.0-windows\Lesson4.pdb
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.csproj.AssemblyReference.cache
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.Form1.resources
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.csproj.GenerateResource.cache
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.AssemblyInfoInputs.cache
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.AssemblyInfo.cs
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.dll
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\ref\Lesson4.dll
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.pdb
+D:\C# dersleri\Lesson4\Lesson4\obj\Debug\net6.0-windows\Lesson4.genruntimeconfig.cache
